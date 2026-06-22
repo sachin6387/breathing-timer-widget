@@ -1,0 +1,6 @@
+git clone https://github.com/sachin6387/breathing-timer-widget.git
+cd breathing-timer-widget
+# Copy all the files I created (code above) into the appropriate folders
+git add .
+git commit -m "Add breathing timer widget"
+git push
