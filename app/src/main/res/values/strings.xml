@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Breathing Timer</string>
+    <string name="widget_name">Breathing Timer Widget</string>
+</resources>
